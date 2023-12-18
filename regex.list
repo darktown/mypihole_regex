@@ -1,0 +1,5 @@
+# Hier ist meine Liste mit Regex von bekannten Seiten. Darunter auch Google AdClick seiten. 
+# Diese wird immer wieder erweitert. sowie ich weiter Seiten gefunden habe. 
+
+.*adclick\.g\.doubleclick.*
+*afs\.googlesyndication\.com.*
